@@ -1,0 +1,778 @@
+[
+  {
+    "Title": "Background and Introduction",
+    "Question": "Can you tell me about yourself and your background?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "1.general_background_and_introduction",
+    "Tag": "recruiter",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Interest in the Position",
+    "Question": "Why are you interested in this position?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "2.interest_in_the_position",
+    "Tag": "recruiter",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Attraction to the Company",
+    "Question": "What attracted you to our company?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "3.attraction_to_the_company",
+    "Tag": "recruiter",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Future Career Goals",
+    "Question": "Where do you see yourself in 5 years?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "4.future_career_goals",
+    "Tag": "recruiter",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Salary Expectations",
+    "Question": "What are your salary expectations?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "5.salary_expectations",
+    "Tag": "recruiter",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Learning Latest Technologies",
+    "Question": "How do you stay updated with the latest technology trends?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "6.learning_latest_technologies",
+    "Tag": "recruiter",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Learning New Technology",
+    "Question": "Describe a time you had to learn a new technology quickly.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "7.learning_new_technology",
+    "Tag": "behavioral",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Proritization",
+    "Question": "How do you handle tight deadlines and multiple priorities?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "8.proritization",
+    "Tag": "behavioral",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Data Quality Resolution",
+    "Question": "Tell me about a time when you faced a data quality issue. How did you resolve it?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "9.data_quality_resolution",
+    "Tag": "behavioral",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Working with difficult team member",
+    "Question": "Describe a situation where you had to work with a difficult team member.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "10.working_with_difficult_team_member",
+    "Tag": "behavioral; SRAR",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Cross-functional Communication",
+    "Question": "How do you communicate complex technical information to non-technical stakeholders?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "11.cross-functional_communication",
+    "Tag": "behavioral",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Decision Making",
+    "Question": "Tell me about a time when you had to make a quick decision without having all the information.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "12.decision_making",
+    "Tag": "behavioral",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Failure in Project",
+    "Question": "Describe a failure you faced in a project and what you learned from it.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "13.failure_in_project",
+    "Tag": "behavioral",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Time Management",
+    "Question": "How do you prioritize your tasks?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "14.time_management",
+    "Tag": "behavioral",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Inconsistency between environement",
+    "Question": "If you discovered a significant data inconsistency in production, what steps would you take to resolve it?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "15.inconsistency_between_environement",
+    "Tag": "technical;DataQuality",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "ETL Error Handling",
+    "Question": "How would you handle a situation where your ETL job failed midway through processing?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "16.etl_error_handling",
+    "Tag": "ETLPipeline",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Data Pipeline Pillars",
+    "Question": "How do you ensure that your data pipelines are scalable and maintainable?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "17.data_pipeline_pillars",
+    "Tag": "ETLPipeline",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Missing Values in Data",
+    "Question": "Imagine you have a dataset with missing values. How would you handle them for analysis?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "18.missing_values_in_data",
+    "Tag": "technical;DataQuality",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Optimize Query",
+    "Question": "You need to optimize a slow-running query in a legacy system. What approach would you take?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "19.optimize_query",
+    "Tag": "SQL;technical",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Data Pipline for Real Time Data",
+    "Question": "How would you design a data pipeline for ingesting real-time data?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "20.data_pipline_for_real_time_data",
+    "Tag": "ETLPipeline",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Data Analytics Project",
+    "Question": "Can you walk me through a recent data analysis project you worked on? What was the problem you were trying to solve, and what approach did you take?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "21.data_analytics_project",
+    "Tag": "STAR;technical",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Cloud Data Migration",
+    "Question": "Describe a time when you had to migrate data from an on-premises system to the cloud.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "22.cloud_data_migration",
+    "Tag": "cloud",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Challenging Data Engineering Problem",
+    "Question": "What\u2019s the most challenging data engineering problem you\u2019ve faced, and how did you solve it?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "23.challenging_data_engineering_problem",
+    "Tag": "STAR;technical",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Automating Data Workflow",
+    "Question": "Explain a project where you automated data workflows and the impact it had.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_essentials_50/",
+    "S3 object": "24.automating_data_workflow",
+    "Tag": "STAR;technical",
+    "List": "Top 50 Most Common Data Engineer Interview Questions"
+  },
+  {
+    "Title": "Self-introduction",
+    "Question": "Please tell me a bit about yourself and your technical background.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "25.self-introduction",
+    "Tag": "recruiter",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Attraction to the Company",
+    "Question": "Why do you want to work for Amazon?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "26.attraction_to_the_company",
+    "Tag": "recruiter",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Immigration Status",
+    "Question": "Do you need, or will you need in the future, any immigration-related support or sponsorship from Amazon in order to begin or continue employment with Amazon?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "27.immigration_status",
+    "Tag": "recruiter",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Interview Status",
+    "Question": "Are you currently actively interviewing and do you have any deadlines or final interviews?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "28.interview_status",
+    "Tag": "recruiter",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Salary Expectations",
+    "Question": "What are your total compensation expectations?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "29.salary_expectations",
+    "Tag": "recruiter",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Location & Relocation",
+    "Question": "Where are you physically located? Would you be willing to relocate?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "30.location_&_relocation",
+    "Tag": "recruiter",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Years of Experience",
+    "Question": "How many years of experience do you have in the BI space?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "31.years_of_experience",
+    "Tag": "recruiter",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Expereince in Data Engienering",
+    "Question": "What is your current role and experience in data engineering?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "32.expereince_in_data_engienering",
+    "Tag": "recruiter",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Interest in the Position",
+    "Question": "What are you looking for in this role at Amazon?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "33.interest_in_the_position",
+    "Tag": "recruiter",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "AWS Products",
+    "Question": "What do you know about AWS products like S3, Lambda, Redshift, and Glue?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "34.aws_products",
+    "Tag": "recruiter",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Window functions & CTEs",
+    "Question": "Explain window functions, CTEs, and subqueries.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "1.window_functions_&_ctes",
+    "Tag": "SQL",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "SQL query optimization techniques",
+    "Question": "Can you describe some SQL query optimization techniques?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "2.sql_query_optimization_techniques",
+    "Tag": "SQL",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Partitions in SQL",
+    "Question": "How do you implement and use partitions in SQL?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "3.partitions_in_sql",
+    "Tag": "SQL",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Fact vs Dimention table",
+    "Question": "Explain the difference between a fact table and a dimension table.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "4.fact_vs_dimention_table",
+    "Tag": "SQL",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "SQL for Sales Increase",
+    "Question": "How would you write a SQL query to display all products with more than 50% increase in sales from the previous month to the current month.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "5.sql_for_sales_increase",
+    "Tag": "SQL",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Handling Slowly Changing Dimensions",
+    "Question": "How do you handle slowly changing dimensions (SCD)?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "6.handling_slowly_changing_dimensions",
+    "Tag": "DataModelling",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Cumulative Sum Query",
+    "Question": "How would you use SQL to calculate for cumulative sum of sales month over month?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "7.cumulative_sum_query",
+    "Tag": "SQL",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Flatten Nested List Using Recursion",
+    "Question": "How would you flatten a nested list using recursion?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "8.flatten_nested_list_using_recursion",
+    "Tag": "Python;technical",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Data Manipulation with Pandas",
+    "Question": "Have you performed data manipulation and wrangling using Python pandas?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "9.data_manipulation_with_pandas",
+    "Tag": "Python",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Sorting Process IDs",
+    "Question": "How would you sort through a list of process IDs with different naming conventions?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "10.sorting_process_ids",
+    "Tag": "Python",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "String Reversal Function",
+    "Question": "Describe how would you write a function to reverse a string?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "11.string_reversal_function",
+    "Tag": "Python",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Python for Data Analysis",
+    "Question": "Explain how you have used Python for data analysis.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "12.python_for_data_analysis",
+    "Tag": "Python",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Find Non-Duplicate Numbers",
+    "Question": "How do you find non-duplicate numbers in a list and preserve their order?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "13.find_non-duplicate_numbers",
+    "Tag": "Python",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Sorting Odd Numbers",
+    "Question": "How do you write Python code to sort an array to produce only odd numbers.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "14.sorting_odd_numbers",
+    "Tag": "Python",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Binary Search Algorithm",
+    "Question": "Describe how you would implement a binary search algorithm?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "15.binary_search_algorithm",
+    "Tag": "Python",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Parsing Large Text Files with Python",
+    "Question": "How would you use Python to parse a large text file and extract specific data points?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "16.parsing_large_text_files_with_python",
+    "Tag": "Python",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Optimizing Python Code for Performance",
+    "Question": "How do you optimize Python code for performance?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "17.optimizing_python_code_for_performance",
+    "Tag": "Python",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Star Schema vs Snowflake Schema",
+    "Question": "Describe the difference between a star schema and a snowflake schema.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "18.star_schema_vs_snowflake_schema",
+    "Tag": "DataModelling;technical",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Building Data Models",
+    "Question": "Explain how you build a data model from a business question to finding insights.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "19.building_data_models",
+    "Tag": "DataModelling;technical",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Data Pipeline Design and Architecture",
+    "Question": "Describe your experience with data pipeline design and architecture.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "20.data_pipeline_design_and_architecture",
+    "Tag": "ETLPipeline",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Handling Large Data Volume",
+    "Question": "How do you handle increasing data volume in a data pipeline using AWS products?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "21.handling_large_data_volume",
+    "Tag": "ETLPipeline;cloud",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Scalable Data Model Considerations",
+    "Question": "What are the key considerations for building a scalable data model?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "22.scalable_data_model_considerations",
+    "Tag": "DataModelling;technical",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Optimizing ETL Pipelines",
+    "Question": "How do you optimize ETL pipelines?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "23.optimizing_etl_pipelines",
+    "Tag": "DataModelling",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "MapReduce Programming Model",
+    "Question": "Explain the MapReduce programming model.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "24.mapreduce_programming_model",
+    "Tag": "BigData;technical",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Hadoop, Hive, or Spark",
+    "Question": "Describe how you have used Hadoop, Hive, or Spark.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "25.hadoop,_hive,_or_spark",
+    "Tag": "BigData",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Master-Slave Architecture",
+    "Question": "Explain master-slave architecture.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "26.master-slave_architecture",
+    "Tag": "BigData;technical",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "File Types in Data Engineering",
+    "Question": "What are some commonly used file types in data engineering and their use cases?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "27.file_types_in_data_engineering",
+    "Tag": "technical",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Real-Time Streaming Data Pipelines",
+    "Question": "How do you build a real-time streaming data pipeline?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "28.real-time_streaming_data_pipelines",
+    "Tag": "ETLPipeline",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Distributed Systems and Parallel Processing",
+    "Question": "Describe your experience with distributed systems and parallel processing.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "29.distributed_systems_and_parallel_processing",
+    "Tag": "ETLPipeline",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Data Pipeline Challenges",
+    "Question": "Explain a data pipeline you have worked on and the challenges faced.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "30.data_pipeline_challenges",
+    "Tag": "ETLPipeline",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Data Warehouse Architecture Experience",
+    "Question": "Tell me about your experience with data warehouse architecture.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "31.data_warehouse_architecture_experience",
+    "Tag": "DataModelling",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Importance of Data Partitioning",
+    "Question": "What is data partitioning, and why is it important?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "32.importance_of_data_partitioning",
+    "Tag": "BigData",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Designing a Sales Data Warehouse",
+    "Question": "How would you design a data warehouse to capture sales data?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "33.designing_a_sales_data_warehouse",
+    "Tag": "DataModelling",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Influencing a Team to Follow Your Vision",
+    "Question": "Describe a situation where you had to influence a team to follow your vision.",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_amazon/",
+    "S3 object": "1.influencing_your_team",
+    "Tag": "behavioral",
+    "List": "Amazon Data Engineer Study Plan"
+  },
+  {
+    "Title": "Financial Data Engineering Experience",
+    "Question": "Can you describe your past experiences with financial data engineering specifically?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "2.financial_data_engineering_experience",
+    "Tag": "finance;recruiter",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Interest in the Company",
+    "Question": "Why did you choose to apply to our company?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "3.interest_in_the_company",
+    "Tag": "recruiter",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Role expectations",
+    "Question": "What do you expect from this role?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "4.role_expectations",
+    "Tag": "recruiter",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Considering Other Positions",
+    "Question": "Are you considering any other positions right now?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "5.considering_other_positions",
+    "Tag": "recruiter",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Expected Salary",
+    "Question": "What is your expected salary?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "6.expected_salary",
+    "Tag": "recruiter",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Availability to Start if Hired",
+    "Question": "How soon would you be able to start if hired?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "7.availability_to_start_if_hired",
+    "Tag": "recruiter",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Python Experiences and Competencies",
+    "Question": "Can you share your experiences and competencies in Python?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "8.python_experiences_and_competencies",
+    "Tag": "Python;technical",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Familiarity with Cloud Services",
+    "Question": "What is your familiarity with cloud services and which have you used the most?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "9.familiarity_with_cloud_services",
+    "Tag": "cloud;technical",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Experience with Spark Architecture",
+    "Question": "Could you detail your experience with Spark Architecture?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "10.experience_with_spark_architecture",
+    "Tag": "BigData;technical",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "New Technical Subjects or Technologies",
+    "Question": "How would you proceed with a new technical subject or technology?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "11.new_technical_subjects_or_technologies",
+    "Tag": "technical",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Proficiency with SQL Programming",
+    "Question": "Can you describe your proficiency with SQL programming?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "12.proficiency_with_sql_programming",
+    "Tag": "SQL;technical",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Reading CSV Files Using Python",
+    "Question": "Can you write a Python code to read hundreds of CSV files and merge common data to a data frame?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "13.reading_csv_files_using_python",
+    "Tag": "Python;technical",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Calculating Distance from a Centroid Using SQL",
+    "Question": "How would you calculate distance from a centroid using SQL if you have latitudes and longitudes in three different tables?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "14.calculating_distance_from_a_centroid_using_sql",
+    "Tag": "SQL;technical",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Understanding SQL Joins",
+    "Question": "What are Joins in SQL and when would you use them?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "15.understanding_sql_joins",
+    "Tag": "SQL;technical",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Supervised vs Unsupervised Machine Learning",
+    "Question": "Can you explain what is supervised and unsupervised machine learning?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "16.supervised_vs_unsupervised_machine_learning",
+    "Tag": "technical",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Checking Binary Search Tree",
+    "Question": "How does one check if a tree is a Binary Search Tree?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "17.checking_binary_search_tree",
+    "Tag": "technical",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Conflict Resolution",
+    "Question": "How do you handle conflicts with team members?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "18.conflict_resolution",
+    "Tag": "STAR;behavioral",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Handling Disagreements",
+    "Question": "Can you describe a time when you disagreed with a coworker or manager and how you resolved it?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "19.handling_disagreements",
+    "Tag": "STAR;behavioral",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Overcoming obstacles",
+    "Question": "Can you give an example of an obstacle you overcame in a past role?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "20.overcoming_obstacles",
+    "Tag": "behavioral",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Growth plan",
+    "Question": "What is your plan for growth and development within one year if you were hired?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "21.growth_plan",
+    "Tag": "behavioral",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Most exciting project",
+    "Question": "Can you share your most exciting project so far in your career?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "22.most_exciting_project",
+    "Tag": "behavioral",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Taking on more ownership",
+    "Question": "What additional tasks or responsibilities did you take up in your last role that were beyond your prescribed job?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "23.taking_on_more_ownership",
+    "Tag": "behavioral",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "DE experience in finance industry",
+    "Question": "How does your experience with data engineering apply to the finance and banking industry?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "24.de_experience_in_finance_industry",
+    "Tag": "finance",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "OOP",
+    "Question": "Have you worked on implementing operations research-based case study with OOP?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "25.oop",
+    "Tag": "programming",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Solving Financial Business Problems",
+    "Question": "Can you provide your approach and methodology for problem solving in a specific business situation or a financial case study?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "26.solving_financial_business_problems",
+    "Tag": "finance",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Batch Processing in Finance Industry",
+    "Question": "Can you explain how ETL batch processing works in the financial industry context?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "27.batch_processing_in_finance_industry",
+    "Tag": "DataModelling; finance",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Financial Exchanges",
+    "Question": "Can you detail your experience with financial exchanges?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "28.financial_exchanges",
+    "Tag": "finance",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Data Transformation in Finance",
+    "Question": "How would you conduct data transformations for financial datasets?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "29.data_transformation_in_finance",
+    "Tag": "finance",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  },
+  {
+    "Title": "Infrastructure Design",
+    "Question": "Can you give an example of a system or infrastructure design you implemented suitable for a financial institution?",
+    "s3 Bucket": "s3://braveliiapp/questions/data-engineer-track/de_finance_banking/",
+    "S3 object": "30.infrastructure_design",
+    "Tag": "finance",
+    "List": "Finance/Banking Data Engineer Study Plan"
+  }
+]
