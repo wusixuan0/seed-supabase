@@ -4,12 +4,15 @@
   "type": "module",
   "main": "insert_question.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:dev": "doppler run --config dev -- node test_doppler.js",
+    "start:prod": "doppler run --config prd -- node test_doppler.js"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@supabase/supabase-js": "^2.44.4"
+    "@supabase/supabase-js": "^2.44.4",
+    "dotenv": "^16.4.5"
   }
 }

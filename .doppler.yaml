@@ -1,0 +1,6 @@
+setup:
+  project: example-project
+
+environments:
+  - name: dev
+  - name: prd
